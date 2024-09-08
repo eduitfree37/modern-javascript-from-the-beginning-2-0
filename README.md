@@ -1,2 +1,3 @@
-# modern-javascript-from-the-beginning-2-0
-Modern JavaScript From The Beginning 2.0
+# Modern JavaScript From The Beginning 2.0
+Master JavaScript with this comprehensive 37+ hour course covering everything from the fundamentals of data types, functions, and loops to advanced topics such as DOM manipulation, asynchronous programming with promises and async/await. Dive deep into the inner workings of JavaScript, including execution context, the call stack, event loop, and more. Develop a strong understanding of Webpack tooling and how to create a cutting-edge development environment. Conclude by constructing a Node.js/Express API with a customized Webpack frontend and gain proficiency in writing unit tests for algorithms.
+[Detail](https://eduitfree.com/courses/modern-javascript-from-the-beginning-2-0)
